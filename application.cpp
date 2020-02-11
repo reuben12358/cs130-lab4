@@ -1,5 +1,7 @@
 #include <GL/glew.h>
 #include "application.h"
+#include <fstream>
+#include <sstream>
 
 using namespace std;
 
